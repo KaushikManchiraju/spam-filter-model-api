@@ -1,0 +1,15 @@
+# Jupyter Notebook
+**/.ipynb_checkpoints
+
+# Draw.io
+**/**.drawio
+
+# Python pycache
+**/**__pycache__
+
+# DS_Store
+**/.DS_Store
+.DS_Store
+
+# Firebase config
+**/**/serviceAccountKey.json
